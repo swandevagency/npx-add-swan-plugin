@@ -1,5 +1,5 @@
 {
-  "name": "npx-add-swan-plugin",
+  "name": "add-swan-plugin",
   "version": "1.0.0",
   "description": "all rights belong to swan-agc",
   "bin": "./bin/cli/index.js",
